@@ -1,0 +1,5 @@
+The water quality analysis system is designed to leverage the capabilities of IoT for real-time 
+monitoring and comprehensive data collection. The core components of the system include four 
+embedded sensors—DS18B20, DHT11, Turbidity, and TDS interfaced with an ESP32 
+microcontroller. This microcontroller acts as the central processing unit, responsible for 
+simultaneously collecting data from each sensor.
